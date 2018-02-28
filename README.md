@@ -1,1 +1,2 @@
-# Custom-Wordpress-theme-2
+# Travelify-Wordpress-theme
+This is just one  my custom made wordpress theme 
